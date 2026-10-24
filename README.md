@@ -12,10 +12,16 @@
   <a href="https://github.com/Rivo-Plus/rivo-player-download/releases/latest/download/RivoPlusPlayer-Windows-Setup.exe"><img src="assets/button-windows.png" width="360" alt="Download for Windows" /></a>
 </p>
 
+<div dir="rtl">
+
 > **أي ماك عندي؟** قائمة Apple ← «حول هذا الماك». إذا كان مكتوبًا **Apple M1/M2/M3/M4** فاختر الزر الأول، وإذا كان مكتوبًا **Intel** فاختر الزر الثاني.
+</div>
+
 > **Which Mac?** Apple menu → About This Mac. **Apple M1–M4** → first button, **Intel** → second button.
 
 ---
+
+<div dir="rtl">
 
 ## 🍏 التثبيت على الماك
 
@@ -39,6 +45,8 @@
 ## ▶️ تشغيل اشتراكك
 
 افتح التطبيق ← **أضف قائمة التشغيل الأولى** ← **Xtream Codes** ← أدخل الرابط واسم المستخدم وكلمة المرور التي أرسلناها لك.
+
+</div>
 
 ---
 
