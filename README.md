@@ -11,6 +11,9 @@
 <p>
   <a href="https://github.com/Rivo-Plus/rivo-player-download/releases/latest/download/RivoPlusPlayer-Windows-Setup.exe"><img src="assets/button-windows.png" width="360" alt="Download for Windows" /></a>
 </p>
+<p>
+  <a href="https://github.com/Rivo-Plus/rivo-player-download/raw/main/extension/RivoPlusPlayer-Chrome-Extension.zip"><img src="assets/button-chrome.png" width="360" alt="Install as a Chrome extension" /></a>
+</p>
 
 <div dir="rtl">
 
@@ -42,6 +45,16 @@
 2. إذا ظهر **Windows protected your PC**: اضغط **More info** ثم **Run anyway**.
 3. التثبيت يتم تلقائيًا بضغطة واحدة ويفتح التطبيق مباشرة، وتجد اختصارًا على سطح المكتب.
 
+## 🌐 التثبيت كإضافة لمتصفح كروم
+
+1. اضغط زر كروم ليتم تحميل الملف `RivoPlusPlayer-Chrome-Extension.zip`، ثم فك الضغط عنه (دبل كليك على الماك، أو كليك يمين ← **استخراج الكل** على ويندوز).
+2. افتح كروم واكتب في شريط العنوان `chrome://extensions` ثم اضغط Enter.
+3. فعّل **وضع المطوّر (Developer mode)** من الزاوية العلوية.
+4. اضغط **تحميل إضافة غير مضغوطة (Load unpacked)** واختر المجلد `RivoPlusPlayer-Chrome-Extension` الذي فككت ضغطه.
+5. اضغط أيقونة الإضافات 🧩 وثبّت **Rivo+ Player**، ثم اضغط الأيقونة لفتح المشغّل.
+
+> لا تحذف المجلد بعد التثبيت، فكروم يشغّل الإضافة منه.
+
 ## ▶️ تشغيل اشتراكك
 
 افتح التطبيق ← **أضف قائمة التشغيل الأولى** ← **Xtream Codes** ← أدخل الرابط واسم المستخدم وكلمة المرور التي أرسلناها لك.
@@ -54,6 +67,7 @@
 
 **Mac:** open the downloaded `.dmg` → drag **Rivo+ Player** onto **Applications** → open it. First launch only: System Settings → Privacy & Security → **Open Anyway**.
 **Windows:** run `RivoPlusPlayer-Windows-Setup.exe` (if SmartScreen appears: More info → Run anyway). It installs in one click and starts.
+**Chrome extension:** download and unzip `RivoPlusPlayer-Chrome-Extension.zip` → open `chrome://extensions` → turn on **Developer mode** → **Load unpacked** → select the unzipped `RivoPlusPlayer-Chrome-Extension` folder → pin **Rivo+ Player** from the 🧩 menu and click it. Keep the folder; Chrome runs the extension from it.
 Then: **Add your first playlist → Xtream Codes** and enter the login we sent you.
 
 ## 💬 الدعم · Support
